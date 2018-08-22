@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Formulario2</string>
+    <string name="name">Nombre</string>
+    <string name="contra">Contraseña</string>
+    <string name="vericontra">Verificacion Contraseña</string>
+    <string name="correo">Correo electronico</string>
+    <string name="sexo">Sexo</string>
+    <string name="masculino">Masculino</string>
+    <string name="femenino">Femenino</string>
+    <string name="hobbie">Hobbies</string>
+    <string name="date">Fecha de Nacimiento</string>
+    <string name="cine">Cine</string>
+    <string name="futbol">Futbol</string>
+    <string name="guitarra">Guitarra</string>
+    <string name="ps4">PS4</string>
+    <string name="guardar">Guardar</string>
+    <string name="formulario">Formulario</string>
+    <string name="datos">Datos</string>
+    <string name="buscar">Buscar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="contacto">Ver Contactos</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="sP1">
+        <item>Lugar de Nacimiento</item>
+        <item>Pasto</item>
+        <item>Medellin</item>
+        <item>Cali</item>
+        <item>Bogota</item>
+        <item>Cartagena</item>
+    </string-array>
+</resources>
